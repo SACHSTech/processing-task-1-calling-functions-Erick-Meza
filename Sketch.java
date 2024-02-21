@@ -29,7 +29,7 @@ public class Sketch extends PApplet {
 
 	// draws red equilateral triangle on the left
     stroke(255,0,0);
-    fill(0,0,0,0);
+    fill(0, 0, 0, 0);
     triangle(90, 310, 90, 70, 270, 200);
 
   // draws a blue diamond on the right side
